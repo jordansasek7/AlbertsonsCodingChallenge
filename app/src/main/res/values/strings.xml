@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlbertsonsCodingChallenge</string>
+    <string name="enter_an_acronym">Enter an Acronym</string>
+    <string name="search">search</string>
+    <string name="extra_empty_results">There are no meanings found for %s</string>
+    <string name="default_empty_results">No Results Found</string>
+    <string name="rest_api_error">There has been an error with the input.\nhttp Error Code: %d.\nError Message: %s</string>
+    <string name="acronym">Acronym</string>
+</resources>
